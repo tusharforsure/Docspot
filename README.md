@@ -1,1 +1,1 @@
-# Docspot-
+# Docspot
